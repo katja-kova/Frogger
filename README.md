@@ -8,8 +8,12 @@
 
 ## Instructions
 
-Use the keys 'up', 'down', 'right' and 'left' to reach the river. Try to escape the bugs.
+Download the repository:
+* Click download ZIP on the right of the screen, then extract the zip file to your computer, or clone the repository using git.
+* Navigate to where you unzipped the file or cloned the repository.
+* Double-click index.html to open the game in your browser.
 
+Use the keys 'up', 'down', 'right' and 'left' to reach the river. Try to escape the bugs.
 
 ## References
 
